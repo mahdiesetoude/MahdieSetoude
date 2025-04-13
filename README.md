@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="./README.en.md">
-    <img src="https://img.shields.io/badge/-English-blue?style=for-the-badge&logo=github" alt="English Version" />
+    <strong>English</strong>
   </a>
-  &nbsp;
+  &nbsp; | &nbsp;
   <a href="./README.fa.md">
-    <img src="https://img.shields.io/badge/-<span dir='rtl'>فارسی</span>-green?style=for-the-badge&logo=github" alt="نسخه فارسی" />
+    <strong dir="rtl">فارسی</strong>
   </a>
 </p>
 
