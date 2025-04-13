@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Mahdie Setoude 👩‍💻  
-  <img src="https://your-image-link.jpg" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://github.com/mahdiesetoude.png" width="150" style="border-radius: 50%;" />
 </h1>
 
 <p align="center">
