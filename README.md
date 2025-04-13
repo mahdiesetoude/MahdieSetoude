@@ -1,16 +1,13 @@
-## Hi there 👋
+<h2 align="center">🌍 Select Your Language | زبان خود را انتخاب کنید</h2>
 
-<!--
-**mahdiesetoude/MahdieSetoude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/-English-blue?style=for-the-badge&logo=github" alt="English Version" />
+  </a>
+  &nbsp;
+  <a href="./README.fa.md">
+    <img src="https://img.shields.io/badge/-فارسی-green?style=for-the-badge&logo=github" alt="نسخه فارسی" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">Welcome to my GitHub profile! Choose your preferred language above.</p>
