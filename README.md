@@ -6,7 +6,7 @@
   </a>
   &nbsp;
   <a href="./README.fa.md">
-    <img src="https://img.shields.io/badge/-فارسی-green?style=for-the-badge&logo=github" alt="نسخه فارسی" />
+    <img src="https://img.shields.io/badge/-<span dir='rtl'>فارسی</span>-green?style=for-the-badge&logo=github" alt="نسخه فارسی" />
   </a>
 </p>
 
