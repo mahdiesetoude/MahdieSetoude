@@ -1,23 +1,26 @@
-<h1 align="center">Hi! I'm Mahdie Setoude</h1>
+<h1 align="center">
+  Hi, I'm Mahdie Setoude 👩‍💻  
+  <img src="https://your-image-link.jpg" width="150" height="150" style="border-radius: 50%;" />
+</h1>
 
 <p align="center">
-  A passionate Software Engineer, dedicated to learning and contributing to the world of technology.  
-  <strong>Currently working with PHP, Java, JavaScript</strong>, and exploring new horizons in Web Development.
+  <strong>Software Engineer | Web Developer</strong><br/>
+  Passionate about solving problems and writing clean, efficient code.<br/>
+  Currently working with <strong>PHP, Java, JavaScript</strong>.<br/>
+  Exploring <strong>React</strong> &amp; <strong>Node.js</strong>.
 </p>
 
-<h3>🔧 Technologies & Tools</h3>
-<ul>
-  <li>Programming Languages: PHP, Java, JavaScript</li>
-  <li>Web Technologies: HTML, CSS, JavaScript, React</li>
-  <li>Database: MySQL, MongoDB</li>
-  <li>Tools: Git, GitHub, VSCode, Docker</li>
-</ul>
+<h3 align="center">🚀 Technologies I Use</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<h3>📫 Contact Me</h3>
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:mahdiesetoude@gmail.com">mahdiesetoude@gmail.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://ir.linkedin.com/in/mahdie-setoude-ba3044220" target="_blank">My LinkedIn Profile</a></li>
-</ul>
-
-<h3>🌱 Currently Learning</h3>
-<p>I'm currently diving deeper into the world of web development and learning new frameworks and tools to enhance my skills.</p>
+<h3 align="center">📫 Contact Me</h3>
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:mahdiesetoude@gmail.com">mahdiesetoude@gmail.com</a><br/>
+  <strong>LinkedIn:</strong> <a href="https://ir.linkedin.com/in/mahdie-setoude-ba3044220">My LinkedIn</a><br/>
+  <strong>GitHub:</strong> <a href="https://github.com/mahdiesetoude">My GitHub</a>
+</p>
